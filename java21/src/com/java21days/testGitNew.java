@@ -12,6 +12,7 @@ package com.java21days;
 public class testGitNew {
     public testGitNew() {
         System.out.println("I live!!!!");
+        System.out.println("Did this work?");
     }
     
     public static void main(String[] arguments) {
